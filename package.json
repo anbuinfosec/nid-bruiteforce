@@ -1,0 +1,27 @@
+{
+  "name": "nid-bruiteforce",
+  "version": "1.0.0",
+  "description": "A simple nodejs tool for nid-bruiteforce A simple nodejs tool for nid-bruiteforce.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "illusionghost",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.4.0",
+    "node-fetch": "^3.2.6",
+    "readline": "^1.3.0",
+    "user-agents": "^1.0.1433"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illusionghost3/nid-bruiteforce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/illusionghost3/nid-bruiteforce/issues"
+  },
+  "homepage": "https://github.com/illusionghost3/nid-bruiteforce#readme"
+}
